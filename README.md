@@ -11,22 +11,21 @@ This week uses an example use-case to create a Rust library from scratch. Instea
 This repository is *Codespaces ready*, and it is set as a template repository. You can create a new repository from this template and start working on your own with Codespaces. This means that Rust, Copilot, and all the extensions are already installed and configured for you.
 
 ### Lesson 1: Building a real-world library
-- [Adding code to lib.rs](./examples/cli-utils/)
-- [Documenting your code](./examples/cli-utils/)
-- [Using a Makefile](./examples/cli-utils/)
+- [Adding code to lib.rs](https://github.com/alfredodeza/applied-rust/blob/main/examples/cli-utils/src/lib.rs#L24)
+- [Documenting your code](https://github.com/alfredodeza/applied-rust/blob/main/examples/cli-utils/src/lib.rs#L1-L23)
+- [Using a Makefile](./examples/cli-utils/Makefile)
 
 ### Lesson 2:
-- [Using Cargo for dependencies](./examples/cli-utils/)
-- [Extending with modules](./examples/cli-utils/)
-- [Defining Public and Private modules](./examples/cli-utils/)
-- [Public and Private fields](./examples/cli-utils/)
+- [Using Cargo for dependencies](./examples/cli-utils/Cargo.toml)
+- [Extending with modules](./examples/cli-utils/src/config.rs)
+- [Defining Public and Private modules](https://github.com/alfredodeza/applied-rust/blob/main/examples/cli-utils/src/lib.rs#L13-L14)
+- [Public and Private fields](https://github.com/alfredodeza/applied-rust/blob/main/examples/cli-utils/src/config.rs#L15-L36)
 
 ### Lesson 3: Testing Rust Code
-- [Organizing test files](./examples/cli-utils/)
-- [Understanding testing private code](./examples/cli-utils/)
-- [Writing your first test](./examples/cli-utils/)
-- [Other assert macros](./examples/cli-utils/)
-- [Custom failure messages](./examples/cli-utils/)
+- [Organizing test files](./examples/cli-utils/tests)
+- [Understanding testing private code](https://github.com/alfredodeza/applied-rust/blob/main/examples/cli-utils/src/lib.rs#L38-L61)
+- [Writing your first test](./examples/cli-utils/tests/test_simple.rs)
+- [Other assert macros](https://github.com/alfredodeza/applied-rust/blob/main/examples/cli-utils/src/lib.rs#L49)
 
 ## Resources
 
