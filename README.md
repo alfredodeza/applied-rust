@@ -4,6 +4,12 @@ _Rust Bootcamp week 4: Applying Rust to build a library_
 
 This week, you will learn how to build a Rust library with Cargo and apply debugging, testing, and documentation patterns that are applicable in a professional setting. You'll use new Cargo commands to work with the library and you'll get an idea on how to work with Rust libraries in other projects. Finally, you'll work closely with public and private code and adding tests to it. The tests will help you verify your work and increase confidence for a solid release.
 
+This is the last wee of the Rust Bootcamp. There are 4 weeks in total:
+
+- [week 1](https://github.com/alfredodeza/rust-setup) 
+- [week 2](https://github.com/alfredodeza/rust-fundamentals) 
+- [week 3](https://github.com/alfredodeza/rust-structs-types-enums/)
+- [week 4](https://github.com/alfredodeza/applied-rust) 👈 You are here!
 
 ## Contents
 This week uses an example use-case to create a Rust library from scratch. Instead of separate projects as examples, it uses one single example that you can use as a reference. All the code is in the [./examples](./examples) directory. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
