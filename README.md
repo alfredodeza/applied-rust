@@ -13,7 +13,7 @@ This is the last wee of the Rust Bootcamp. There are 4 weeks in total:
 
 🚀 **Watch the Video course**
 
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/rust-bootcamp/28080717VIDEOPAIML/ "Rust Bootcamp")
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
 
 ## Contents
 This week uses an example use-case to create a Rust library from scratch. Instead of separate projects as examples, it uses one single example that you can use as a reference. All the code is in the [./examples](./examples) directory. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
