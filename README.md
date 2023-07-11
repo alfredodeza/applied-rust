@@ -37,6 +37,9 @@ This repository is *Codespaces ready*, and it is set as a template repository. Y
 - [Writing your first test](./examples/cli-utils/tests/test_simple.rs)
 - [Other assert macros](https://github.com/alfredodeza/applied-rust/blob/main/examples/cli-utils/src/lib.rs#L49)
 
+### Lesson 4: Practice lab
+Use the included [practice lab](./lab.md) to apply the content you've learned in this week. Follow the steps to create your own repository and apply the requirements to complete the lab so that you end up creating a library in Rust.
+
 ## Resources
 
 **Coursera Courses**
