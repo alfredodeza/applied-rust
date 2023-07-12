@@ -10,7 +10,7 @@ In this lab, you will create a library in Rust to reinforce the concepts covered
 
 ## Steps:
 
-1. Create a new repository in your account for your Rust library
+1. 1. Create a new repository in your account for your Rust project. Use the [Rust template repository](https://github.com/alfredodeza/rust-template) to quickly generate one for your own account. Use this link to [create it in one step](https://github.com/alfredodeza/rust-template/generate).
 1. Use the [example code](https://github.com/alfredodeza/applied-rust/tree/main/examples/cli-utils) used for this week as a starting point
 1. Use one of the library ideas below or implement one from your own
 
