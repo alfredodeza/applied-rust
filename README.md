@@ -1,3 +1,7 @@
+# [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/58m "Coursera Specialization")
+
+This repository is part of the Rust Fundamentals Coursera course and Systems Engineering specialization by Duke University
+
 # Applied Rust
 
 _Rust Bootcamp week 4: Applying Rust to build a library_
@@ -13,10 +17,6 @@ This is the last wee of the Rust Bootcamp. There are 4 weeks in total:
 
 💡 Are you just looking for a 👉 [Rust template](https://github.com/alfredodeza/rust-template) to get started easily with a project? The [template](https://github.com/alfredodeza/rust-template) has everything you need!
 
-
-🚀 **Watch the Video course**
-
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
 
 ## Contents
 This week uses an example use-case to create a Rust library from scratch. Instead of separate projects as examples, it uses one single example that you can use as a reference. All the code is in the [./examples](./examples) directory. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
