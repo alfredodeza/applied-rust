@@ -17,6 +17,8 @@ This is the last wee of the Rust Bootcamp. There are 4 weeks in total:
 
 💡 Are you just looking for a 👉 [Rust template](https://github.com/alfredodeza/rust-template) to get started easily with a project? The [template](https://github.com/alfredodeza/rust-template) has everything you need!
 
+[![DS500](https://ds500.paiml.com/assets/social/g6u1k.png)](https://ds500.paiml.com/learn/course/g6u1k/ "Rust Fundamentals Course")
+
 
 ## Contents
 This week uses an example use-case to create a Rust library from scratch. Instead of separate projects as examples, it uses one single example that you can use as a reference. All the code is in the [./examples](./examples) directory. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
