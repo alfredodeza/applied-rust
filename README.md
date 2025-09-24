@@ -1,6 +1,6 @@
-# [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/58m "Coursera Specialization")
+[![Pragmatic AI Labs Course](./assets/banner.svg)](https://ds500.paiml.com/learn/course/g6u1k/ "Rust Course")
 
-This repository is part of the Rust Fundamentals Coursera course and Systems Engineering specialization by Duke University
+This repository is part of the Rust Fundamentals course by Pragmatic AI Labs
 
 # Applied Rust
 
